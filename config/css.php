@@ -1,0 +1,22 @@
+<?php
+return [
+'Request'=>'primary',
+'Pending'=>'warning',
+'Accepted'=>'success',
+'Taken'=>'danger',
+'Canceled'=>'grey',
+'Rejected'=>'danger',
+'1'=>'default',
+'2'=>'primary',
+'3'=>'success',
+'4'=>'info',
+'5'=>'warning',
+'6'=>'danger',
+'7'=>'pink',
+'8'=>'inverse',
+'9'=>'purple',
+'employee'=>'employee',
+'employee-manager'=>'manager',
+'patient-manager'=>'manager',
+'scheduling-manager'=>'manager',
+];

@@ -1,0 +1,1 @@
+Shift for {{ \App\CodeMaster::get_code_by_type_and_key('job_title',$element->pivot->jobtitle_id) }} has been filled

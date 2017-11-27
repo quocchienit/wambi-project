@@ -1,0 +1,23 @@
+CREATE TABLE  IF NOT EXISTS `config_peck` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `unit_id` varchar(250) NOT NULL,
+  `poor` int(11) NOT NULL DEFAULT '0',
+  `fair` int(11) NOT NULL DEFAULT '0',
+  `ok` int(11) NOT NULL DEFAULT '0',
+  `good` int(11) NOT NULL DEFAULT '0',
+  `great` int(11) NOT NULL DEFAULT '0',
+  `urgent` int(11) NOT NULL DEFAULT '0',
+  `v_urgent` int(11) NOT NULL DEFAULT '0',
+  `e_urgent` int(11) NOT NULL DEFAULT '0',
+  `from_need` int(11) NOT NULL DEFAULT '0',
+  `to_need` int(11) NOT NULL DEFAULT '0',
+  `from_sactisfactory` int(11) NOT NULL DEFAULT '0',
+  `to_sactisfactory` int(11) NOT NULL DEFAULT '0',
+  `from_good` int(11) NOT NULL DEFAULT '0',
+  `to_good` int(11) NOT NULL DEFAULT '0',
+  `from_excellent` int(11) NOT NULL DEFAULT '0',
+  `to_excellent` int(11) NOT NULL DEFAULT '0',
+  `from_exceptional` int(11) NOT NULL DEFAULT '0',
+  `to_exceptional` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;

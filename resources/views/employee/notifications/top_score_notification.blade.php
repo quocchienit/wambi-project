@@ -1,0 +1,1 @@
+{{ $content->name }} is the top scoring Employee of the Month!

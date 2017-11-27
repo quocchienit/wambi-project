@@ -1,0 +1,20 @@
+CREATE TABLE  IF NOT EXISTS `exitsurvey` (
+  `pid` int(11) NOT NULL,
+  `q1` int(11) NOT NULL,
+  `q2` int(11) NOT NULL,
+  `q3` int(11) NOT NULL,
+  `q4` int(11) NOT NULL,
+  `q5` int(11) NOT NULL,
+  `q6` int(11) NOT NULL,
+  `q7` int(11) NOT NULL,
+  `q8` int(11) NOT NULL,
+  `q9` int(11) NOT NULL,
+  `q10` int(11) NOT NULL,
+  `q11` int(11) NOT NULL,
+  `q12` int(11) NOT NULL,
+  `q13` int(11) NOT NULL,
+  `q14` int(11) NOT NULL,
+  `q15` int(11) NOT NULL,
+  `q16` int(11) NOT NULL,
+  `q17` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;

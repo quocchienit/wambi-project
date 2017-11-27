@@ -1,0 +1,1 @@
+{{ $content->employee_fullname or '' }} received {{ $content->number_of_consecutive or '' }} Perfect Reviews in a row!

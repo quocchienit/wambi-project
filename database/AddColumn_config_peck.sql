@@ -1,0 +1,1 @@
+﻿alter table config_peck add eidredem varchar(1000);

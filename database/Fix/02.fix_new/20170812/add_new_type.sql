@@ -1,0 +1,1 @@
+ALTER TABLE `newsfeed` ADD `type` VARCHAR(255) NULL AFTER `fac_id`;

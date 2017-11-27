@@ -1,0 +1,1 @@
+ALTER TABLE `answers` ADD COLUMN `answer_id` int(11) NOT NULL;

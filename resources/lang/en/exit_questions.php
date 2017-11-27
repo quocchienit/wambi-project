@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'Physicians' => 'Physicians',
+  'Takes_enough_time_with_you' => 'Takes enough time with you',
+  'Explains_what_you_want_to_know' => 'Explains what you want to know',
+  'Provides_good_advice_and_treatment' => 'Provides good advice and treatment',
+  'Nursing_Staff' => 'Nursing Staff',
+  'Provides_good_nursing_care' => 'Provides good nursing care',
+  'Has_a_caring_attitude' => 'Has a caring attitude',
+  'Other_Therapy_Staff' => 'Other Therapy Staff',
+  'Friendly_and_helpful_to_you' => 'Friendly and helpful to you',
+  'Answers_your_questions' => 'Answers your questions',
+  'Explains_Treatment_Plan' => 'Explains Treatment Plan',
+  'Facility_Unit' => 'Facility',
+  'Neat_and_clean_building' => 'Neat and clean building',
+  'Unit_easily_accessible' => 'Unit easily accessible',
+  'Comfort_and_Safety' => 'Comfort and Safety',
+  'Privacy' => 'Privacy',
+  'Likelihood_of_referring_others' => 'Likelihood of referring others',
+  'hospital_mission_statement' => '"Hospital mission statement"',
+  'Takes time to discuss your medication, diet and first physician appointment after discharge' => 'Takes time to discuss your medication, diet and first physician appointment after discharge',
+  'Nursing Staff' => 'Nursing Staff',
+  'Other Therapy Staff' => 'Other Therapy Staff',
+  'Facility' => 'Facility',
+  'Listens_to_you_answers_questions' => 'Listens to you and answers your questions',
+);

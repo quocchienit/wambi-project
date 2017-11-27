@@ -1,0 +1,1 @@
+Alert - {{ $qty or '' }} reviews have been filled out in a 30 minute period from {{ $patient }}'s account on {{ $employee or '' }}. If this continues to happen, please take measures to make sure the Employee is not filling out surveys on themselves.

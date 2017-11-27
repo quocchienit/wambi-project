@@ -1,0 +1,1 @@
+ALTER TABLE `shift_master` ADD `shift_city` VARCHAR(255) NULL AFTER `shift_notes`;

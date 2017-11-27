@@ -1,0 +1,1 @@
+ALTER TABLE `question` ADD COLUMN  `enabled` tinyint(4) DEFAULT '1';

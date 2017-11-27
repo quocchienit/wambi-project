@@ -1,0 +1,9 @@
+﻿CREATE TABLE  IF NOT EXISTS `code_master` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `type` varchar(250) CHARACTER SET utf8 DEFAULT NULL,
+  `key` varchar(250) CHARACTER SET utf8 DEFAULT NULL,
+  `value` varchar(250) CHARACTER SET utf8 DEFAULT NULL,
+  `notes` varchar(2000) CHARACTER SET utf8 DEFAULT NULL,
+  `display_name` varchar(500) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=55 DEFAULT CHARSET=latin1;

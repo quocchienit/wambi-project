@@ -1,0 +1,1 @@
+Accepted for taking shift  on {{ $content->shift_date or ''}} at {{ $content->shift_time or '' }}. 

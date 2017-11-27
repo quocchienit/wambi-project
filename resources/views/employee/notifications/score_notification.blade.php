@@ -1,0 +1,1 @@
+Employee {{ $content->name }} is doing a {{ $content->status }} job!

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'Physicians' => 'Médicos',
+  'Takes_enough_time_with_you' => 'Toma bastante tiempo contigo',
+  'Explains_what_you_want_to_know' => 'Explica lo que quieres saber',
+  'Provides_good_advice_and_treatment' => 'Proporciona buenos consejos y tratamiento',
+  'Nursing_Staff' => 'Personal de enfermería',
+  'Provides_good_nursing_care' => 'Proporciona un buen cuidado de enfermería',
+  'Has_a_caring_attitude' => 'Tiene una actitud de cuidado',
+  'Other_Therapy_Staff' => 'Otro Personal de Terapia',
+  'Friendly_and_helpful_to_you' => 'Amable y servicial con usted',
+  'Answers_your_questions' => 'Responde a tus preguntas',
+  'Explains_Treatment_Plan' => 'Explica el plan de tratamiento',
+  'Facility_Unit' => 'Facility',
+  'Neat_and_clean_building' => 'Edificio limpio y ordenado',
+  'Unit_easily_accessible' => 'Unidad de fácil acceso',
+  'Comfort_and_Safety' => 'Comodidad y seguridad',
+  'Privacy' => 'Política de privacidad',
+  'Likelihood_of_referring_others' => 'Probabilidad de hacer referencia a otros',
+  'hospital_mission_statement' => '"Hospital mission statement"',
+  'Takes time to discuss your medication, diet and first physician appointment after discharge' => 'Takes time to discuss your medication, diet and first physician appointment after discharge',
+  'Nursing Staff' => 'Personal de enfermería',
+  'Other Therapy Staff' => 'Otro Personal de Terapia',
+  'Facility' => 'Facility',
+  'Listens_to_you_answers_questions' => 'Escucha y responde a las preguntas',
+);

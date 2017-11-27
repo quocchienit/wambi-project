@@ -1,0 +1,1 @@
+{{str_replace('#pecks',$element->total,$element->display_name)}}

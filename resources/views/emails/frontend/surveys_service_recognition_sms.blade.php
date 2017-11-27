@@ -1,0 +1,1 @@
+{{$employee->name()}} has received {{$configPeck->number_of_consecutive}} perfect reviews in a row and is on a Wambi Hot Streak! High-fives are in order &#128522;

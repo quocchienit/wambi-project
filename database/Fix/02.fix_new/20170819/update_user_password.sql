@@ -1,0 +1,1 @@
+ALTER TABLE `employee_master` ADD `status_pass` TINYINT(1) NOT NULL DEFAULT '0' AFTER `password`;
